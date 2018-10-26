@@ -161,6 +161,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define RGBLIGHT_ANIMATIONS
 
 
+#define AUTO_SHIFT_TIMEOUT 135
+#define NO_AUTO_SHIFT_ALPHA
+
 
 /*
  * Feature disable options
